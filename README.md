@@ -6,8 +6,4 @@ Content acquired from the 1996 Canadian census and provided here for information
 ## Datasets
 
 * MontrealBoundary.rds - Contains boundary data for the island of Montreal alond with a covariate indicating if the boundary region is populated or not.
-* MontrealData.rds - Contains population density data for the 493 census tracts of Montreal, along with a covariate indicating predominant land usage. 
-
-## Authors
-
-* **Edward Donlon**
+* MontrealData.rds - Contains population density data for the 493 census tracts of Montreal, along with a covariate indicating predominant land usage.
